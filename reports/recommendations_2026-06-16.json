@@ -1,0 +1,293 @@
+{
+  "input": {
+    "candidate_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "flask"
+    ],
+    "experience_level": "Mid-level"
+  },
+  "matched_jobs": [
+    {
+      "job_id": "2921027948",
+      "title": "Python Developer",
+      "company": "Fragma Data Systems",
+      "city": "Chennai",
+      "salary_avg": "1025000.00",
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/2921027948?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "3115911545",
+      "title": "Python developer",
+      "company": "SenecaGlobal",
+      "city": "Hyderabad",
+      "salary_avg": "2250000.00",
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/3115911545?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "3812502541",
+      "title": "Python Developer",
+      "company": "SOT-Science of talent Acquisition consulting services Pvt Ltd",
+      "city": "Chennai",
+      "salary_avg": "1750000.00",
+      "is_remote": 1,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/3812502541?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "4267565249",
+      "title": "Python Developer",
+      "company": "codersbrain",
+      "city": "Bangalore",
+      "salary_avg": "400000.00",
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/4267565249?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "4595317345",
+      "title": "Python Developer",
+      "company": "P99soft",
+      "city": "Bangalore",
+      "salary_avg": "1250000.00",
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/4595317345?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "5266516606",
+      "title": "Python developer",
+      "company": "Wissen Technology",
+      "city": "Pune",
+      "salary_avg": "2000000.00",
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/5266516606?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "5627769646",
+      "title": "Data Engineer / Data Scientist",
+      "company": "Luxoft India",
+      "city": "India",
+      "salary_avg": null,
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/land/ad/5627769646?se=kgZr5zRb8RGO7q8tRfw9bQ&utm_medium=api&utm_source=260d10ef&v=97BD88A5E5CF807048011C85505AA0A2AB6F44E6",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "5672787197",
+      "title": "Python Developer",
+      "company": "Wissen Technology",
+      "city": "Pune",
+      "salary_avg": "1100000.00",
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/5672787197?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "5707748732",
+      "title": "Python Developer",
+      "company": "Aspire Systems India Private Limited",
+      "city": "Ernakulam",
+      "salary_avg": null,
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/details/5707748732?utm_medium=api&utm_source=260d10ef",
+      "matched_skills": 3
+    },
+    {
+      "job_id": "5721569065",
+      "title": "Data Scientist",
+      "company": "Astek",
+      "city": "Kochi",
+      "salary_avg": null,
+      "is_remote": 0,
+      "experience_level": "Mid-level",
+      "url": "https://www.adzuna.in/land/ad/5721569065?se=xKdf4zRb8RGO7q8tRfw9bQ&utm_medium=api&utm_source=260d10ef&v=3A94FD3A4A6339ADF61AD669E6A7AC6B71D8C457",
+      "matched_skills": 3
+    }
+  ],
+  "skill_gap": [
+    {
+      "skill": "machine learning",
+      "demand_count": 337
+    },
+    {
+      "skill": "react",
+      "demand_count": 253
+    },
+    {
+      "skill": "data science",
+      "demand_count": 186
+    },
+    {
+      "skill": "ci/cd",
+      "demand_count": 154
+    },
+    {
+      "skill": "aws",
+      "demand_count": 147
+    },
+    {
+      "skill": "javascript",
+      "demand_count": 116
+    },
+    {
+      "skill": "communication",
+      "demand_count": 113
+    },
+    {
+      "skill": "azure",
+      "demand_count": 104
+    },
+    {
+      "skill": "leadership",
+      "demand_count": 98
+    },
+    {
+      "skill": "kubernetes",
+      "demand_count": 79
+    },
+    {
+      "skill": "django",
+      "demand_count": 74
+    },
+    {
+      "skill": "docker",
+      "demand_count": 61
+    },
+    {
+      "skill": "agile",
+      "demand_count": 53
+    },
+    {
+      "skill": "deep learning",
+      "demand_count": 53
+    },
+    {
+      "skill": "gcp",
+      "demand_count": 48
+    },
+    {
+      "skill": "java",
+      "demand_count": 46
+    },
+    {
+      "skill": "nlp",
+      "demand_count": 44
+    },
+    {
+      "skill": "r",
+      "demand_count": 43
+    },
+    {
+      "skill": "typescript",
+      "demand_count": 41
+    },
+    {
+      "skill": "excel",
+      "demand_count": 40
+    },
+    {
+      "skill": "react native",
+      "demand_count": 39
+    },
+    {
+      "skill": "terraform",
+      "demand_count": 33
+    },
+    {
+      "skill": "numpy",
+      "demand_count": 31
+    },
+    {
+      "skill": "postgresql",
+      "demand_count": 30
+    },
+    {
+      "skill": "jenkins",
+      "demand_count": 30
+    },
+    {
+      "skill": "computer vision",
+      "demand_count": 27
+    }
+  ],
+  "recommended_skills": [
+    {
+      "skill": "machine learning",
+      "demand_count": 337,
+      "avg_salary": 1515667.0
+    },
+    {
+      "skill": "react",
+      "demand_count": 253,
+      "avg_salary": 1014175.0
+    },
+    {
+      "skill": "data science",
+      "demand_count": 186,
+      "avg_salary": 1343571.0
+    },
+    {
+      "skill": "ci/cd",
+      "demand_count": 154,
+      "avg_salary": 1409189.0
+    },
+    {
+      "skill": "aws",
+      "demand_count": 147,
+      "avg_salary": 1287010.0
+    },
+    {
+      "skill": "javascript",
+      "demand_count": 116,
+      "avg_salary": 950213.0
+    },
+    {
+      "skill": "communication",
+      "demand_count": 113,
+      "avg_salary": 1071974.0
+    },
+    {
+      "skill": "azure",
+      "demand_count": 104,
+      "avg_salary": 1380000.0
+    },
+    {
+      "skill": "leadership",
+      "demand_count": 98,
+      "avg_salary": 383125.0
+    },
+    {
+      "skill": "kubernetes",
+      "demand_count": 79,
+      "avg_salary": 1441622.0
+    }
+  ],
+  "salary_potential": {
+    "current_avg_salary": 1111378.0,
+    "potential_avg_salary": 1179687.0,
+    "estimated_uplift": 68309.0,
+    "skills_to_add": [
+      "machine learning",
+      "react",
+      "data science",
+      "ci/cd",
+      "aws"
+    ]
+  }
+}

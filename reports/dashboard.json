@@ -1,0 +1,499 @@
+{
+  "summary": {
+    "total_jobs_collected": 2624
+  },
+  "top_skills": [
+    {
+      "skill": "python",
+      "demand_count": 449,
+      "demand_pct": "11.93"
+    },
+    {
+      "skill": "machine learning",
+      "demand_count": 376,
+      "demand_pct": "9.99"
+    },
+    {
+      "skill": "react",
+      "demand_count": 275,
+      "demand_pct": "7.30"
+    },
+    {
+      "skill": "data science",
+      "demand_count": 214,
+      "demand_pct": "5.68"
+    },
+    {
+      "skill": "ci/cd",
+      "demand_count": 167,
+      "demand_pct": "4.44"
+    },
+    {
+      "skill": "aws",
+      "demand_count": 160,
+      "demand_pct": "4.25"
+    },
+    {
+      "skill": "communication",
+      "demand_count": 149,
+      "demand_pct": "3.96"
+    },
+    {
+      "skill": "javascript",
+      "demand_count": 123,
+      "demand_pct": "3.27"
+    },
+    {
+      "skill": "leadership",
+      "demand_count": 118,
+      "demand_pct": "3.13"
+    },
+    {
+      "skill": "azure",
+      "demand_count": 117,
+      "demand_pct": "3.11"
+    },
+    {
+      "skill": "sql",
+      "demand_count": 107,
+      "demand_pct": "2.84"
+    },
+    {
+      "skill": "kubernetes",
+      "demand_count": 83,
+      "demand_pct": "2.20"
+    },
+    {
+      "skill": "django",
+      "demand_count": 76,
+      "demand_pct": "2.02"
+    },
+    {
+      "skill": "deep learning",
+      "demand_count": 61,
+      "demand_pct": "1.62"
+    },
+    {
+      "skill": "docker",
+      "demand_count": 61,
+      "demand_pct": "1.62"
+    },
+    {
+      "skill": "agile",
+      "demand_count": 60,
+      "demand_pct": "1.59"
+    },
+    {
+      "skill": "gcp",
+      "demand_count": 58,
+      "demand_pct": "1.54"
+    },
+    {
+      "skill": "java",
+      "demand_count": 55,
+      "demand_pct": "1.46"
+    },
+    {
+      "skill": "flask",
+      "demand_count": 52,
+      "demand_pct": "1.38"
+    },
+    {
+      "skill": "react native",
+      "demand_count": 50,
+      "demand_pct": "1.33"
+    }
+  ],
+  "city_hiring": [
+    {
+      "city": "Bangalore",
+      "country": "IN",
+      "total_jobs": 686,
+      "avg_salary": "1269732",
+      "remote_jobs": "8"
+    },
+    {
+      "city": "India",
+      "country": "IN",
+      "total_jobs": 580,
+      "avg_salary": "1389263",
+      "remote_jobs": "49"
+    },
+    {
+      "city": "Hyderabad",
+      "country": "IN",
+      "total_jobs": 271,
+      "avg_salary": "1264706",
+      "remote_jobs": "4"
+    },
+    {
+      "city": "Mumbai",
+      "country": "IN",
+      "total_jobs": 133,
+      "avg_salary": "1123333",
+      "remote_jobs": "6"
+    },
+    {
+      "city": "Chennai",
+      "country": "IN",
+      "total_jobs": 123,
+      "avg_salary": "1160577",
+      "remote_jobs": "3"
+    },
+    {
+      "city": "Pune",
+      "country": "IN",
+      "total_jobs": 111,
+      "avg_salary": "1107368",
+      "remote_jobs": "1"
+    },
+    {
+      "city": "Noida",
+      "country": "IN",
+      "total_jobs": 77,
+      "avg_salary": "810000",
+      "remote_jobs": "1"
+    },
+    {
+      "city": "Delhi",
+      "country": "IN",
+      "total_jobs": 58,
+      "avg_salary": "1118421",
+      "remote_jobs": "1"
+    },
+    {
+      "city": "Kolkata",
+      "country": "IN",
+      "total_jobs": 36,
+      "avg_salary": "762500",
+      "remote_jobs": "2"
+    },
+    {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "total_jobs": 28,
+      "avg_salary": "585455",
+      "remote_jobs": "0"
+    },
+    {
+      "city": "Navi Mumbai",
+      "country": "IN",
+      "total_jobs": 23,
+      "avg_salary": "625000",
+      "remote_jobs": "0"
+    },
+    {
+      "city": "Jaipur",
+      "country": "IN",
+      "total_jobs": 17,
+      "avg_salary": "457500",
+      "remote_jobs": "0"
+    },
+    {
+      "city": "Gurgaon",
+      "country": "IN",
+      "total_jobs": 16,
+      "avg_salary": "700000",
+      "remote_jobs": "0"
+    },
+    {
+      "city": "Kochi",
+      "country": "IN",
+      "total_jobs": 14,
+      "avg_salary": "500000",
+      "remote_jobs": "0"
+    },
+    {
+      "city": "Coimbatore",
+      "country": "IN",
+      "total_jobs": 10,
+      "avg_salary": "450000",
+      "remote_jobs": "0"
+    }
+  ],
+  "remote_vs_onsite": [
+    {
+      "is_remote": 0,
+      "job_count": 2246,
+      "percentage": "85.59",
+      "avg_salary": "1186616"
+    },
+    {
+      "is_remote": 1,
+      "job_count": 378,
+      "percentage": "14.41",
+      "avg_salary": "741875"
+    }
+  ],
+  "experience_demand": [
+    {
+      "experience_level": "Mid-level",
+      "job_count": 1960,
+      "avg_salary": "1156462"
+    },
+    {
+      "experience_level": "Senior",
+      "job_count": 510,
+      "avg_salary": "1615435"
+    },
+    {
+      "experience_level": "Manager",
+      "job_count": 126,
+      "avg_salary": "82500"
+    },
+    {
+      "experience_level": "Junior",
+      "job_count": 28,
+      "avg_salary": "550000"
+    }
+  ],
+  "skill_salary": [
+    {
+      "skill": "pytorch",
+      "avg_salary": "1978125",
+      "min_salary": "350000",
+      "max_salary": "5500000",
+      "job_count": 8,
+      "salary_rank": 1
+    },
+    {
+      "skill": "jenkins",
+      "avg_salary": "1899167",
+      "min_salary": "300000",
+      "max_salary": "6000000",
+      "job_count": 12,
+      "salary_rank": 2
+    },
+    {
+      "skill": "tensorflow",
+      "avg_salary": "1820833",
+      "min_salary": "350000",
+      "max_salary": "5500000",
+      "job_count": 6,
+      "salary_rank": 3
+    },
+    {
+      "skill": "big data",
+      "avg_salary": "1800000",
+      "min_salary": "500000",
+      "max_salary": "3500000",
+      "job_count": 4,
+      "salary_rank": 4
+    },
+    {
+      "skill": "machine learning",
+      "avg_salary": "1553298",
+      "min_salary": "50000",
+      "max_salary": "5500000",
+      "job_count": 47,
+      "salary_rank": 5
+    },
+    {
+      "skill": "computer vision",
+      "avg_salary": "1514286",
+      "min_salary": "400000",
+      "max_salary": "4500000",
+      "job_count": 7,
+      "salary_rank": 6
+    },
+    {
+      "skill": "spring",
+      "avg_salary": "1450000",
+      "min_salary": "200000",
+      "max_salary": "3500000",
+      "job_count": 3,
+      "salary_rank": 7
+    },
+    {
+      "skill": "kubernetes",
+      "avg_salary": "1441622",
+      "min_salary": "100000",
+      "max_salary": "6000000",
+      "job_count": 37,
+      "salary_rank": 8
+    },
+    {
+      "skill": "docker",
+      "avg_salary": "1409632",
+      "min_salary": "60000",
+      "max_salary": "6000000",
+      "job_count": 34,
+      "salary_rank": 9
+    },
+    {
+      "skill": "ansible",
+      "avg_salary": "1390000",
+      "min_salary": "300000",
+      "max_salary": "3500000",
+      "job_count": 6,
+      "salary_rank": 10
+    },
+    {
+      "skill": "gcp",
+      "avg_salary": "1385000",
+      "min_salary": "400000",
+      "max_salary": "3500000",
+      "job_count": 15,
+      "salary_rank": 11
+    },
+    {
+      "skill": "ci/cd",
+      "avg_salary": "1375385",
+      "min_salary": "100000",
+      "max_salary": "4500000",
+      "job_count": 39,
+      "salary_rank": 12
+    },
+    {
+      "skill": "sql",
+      "avg_salary": "1372727",
+      "min_salary": "100000",
+      "max_salary": "3500000",
+      "job_count": 22,
+      "salary_rank": 13
+    },
+    {
+      "skill": "terraform",
+      "avg_salary": "1368906",
+      "min_salary": "60000",
+      "max_salary": "3500000",
+      "job_count": 16,
+      "salary_rank": 14
+    },
+    {
+      "skill": "azure",
+      "avg_salary": "1356296",
+      "min_salary": "50000",
+      "max_salary": "4500000",
+      "job_count": 27,
+      "salary_rank": 15
+    },
+    {
+      "skill": "nlp",
+      "avg_salary": "1350000",
+      "min_salary": "400000",
+      "max_salary": "2500000",
+      "job_count": 5,
+      "salary_rank": 16
+    },
+    {
+      "skill": "agile",
+      "avg_salary": "1344167",
+      "min_salary": "60000",
+      "max_salary": "4000000",
+      "job_count": 15,
+      "salary_rank": 17
+    },
+    {
+      "skill": "data science",
+      "avg_salary": "1343571",
+      "min_salary": "50000",
+      "max_salary": "3500000",
+      "job_count": 7,
+      "salary_rank": 18
+    },
+    {
+      "skill": "deep learning",
+      "avg_salary": "1320000",
+      "min_salary": "400000",
+      "max_salary": "2400000",
+      "job_count": 5,
+      "salary_rank": 19
+    },
+    {
+      "skill": "aws",
+      "avg_salary": "1317689",
+      "min_salary": "60000",
+      "max_salary": "6000000",
+      "job_count": 53,
+      "salary_rank": 20
+    }
+  ],
+  "monthly_trend": [
+    {
+      "month": "2025-12",
+      "job_count": 6,
+      "avg_salary": "1475000"
+    },
+    {
+      "month": "2026-01",
+      "job_count": 22,
+      "avg_salary": "900000"
+    },
+    {
+      "month": "2026-02",
+      "job_count": 44,
+      "avg_salary": "1141667"
+    },
+    {
+      "month": "2026-03",
+      "job_count": 70,
+      "avg_salary": "1108500"
+    },
+    {
+      "month": "2026-04",
+      "job_count": 272,
+      "avg_salary": "1476105"
+    },
+    {
+      "month": "2026-05",
+      "job_count": 888,
+      "avg_salary": "785125"
+    },
+    {
+      "month": "2026-06",
+      "job_count": 805,
+      "avg_salary": "1007292"
+    }
+  ],
+  "source_breakdown": [
+    {
+      "source": "adzuna",
+      "job_count": 2324,
+      "avg_salary": "1185510"
+    },
+    {
+      "source": "remoteok",
+      "job_count": 300,
+      "avg_salary": "80418"
+    }
+  ],
+  "skill_group_demand": [
+    {
+      "skill_group": "Data/AI",
+      "demand_count": 929,
+      "unique_jobs": 594
+    },
+    {
+      "skill_group": "Programming",
+      "demand_count": 805,
+      "unique_jobs": 686
+    },
+    {
+      "skill_group": "Cloud/DevOps",
+      "demand_count": 766,
+      "unique_jobs": 404
+    },
+    {
+      "skill_group": "Web",
+      "demand_count": 520,
+      "unique_jobs": 401
+    },
+    {
+      "skill_group": "Business",
+      "demand_count": 446,
+      "unique_jobs": 335
+    },
+    {
+      "skill_group": "Database",
+      "demand_count": 189,
+      "unique_jobs": 156
+    },
+    {
+      "skill_group": "Mobile",
+      "demand_count": 110,
+      "unique_jobs": 58
+    }
+  ],
+  "generated_at": "2026-06-20"
+}
